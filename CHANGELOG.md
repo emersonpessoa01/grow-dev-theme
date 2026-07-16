@@ -13,6 +13,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Novas fontes web (Inter e Syne) no arquivo de estilos e tipografia.
 - Estilização customizada da scrollbar global no `vtex.store.css`.
 
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+
 ## [1.0.1] - 2026-06-08
 
 ## [1.0.0] - 2026-04-17
